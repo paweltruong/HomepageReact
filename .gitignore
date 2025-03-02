@@ -398,3 +398,10 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# React
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
